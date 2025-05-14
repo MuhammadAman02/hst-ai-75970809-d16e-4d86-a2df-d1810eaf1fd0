@@ -30,5 +30,9 @@
   {
     "role": "ai_message",
     "content": "Software is a set of instructions, data, or programs used to operate computers and execute specific tasks. It's essentially the opposite of hardware, which describes the physical aspects of a computer. Software can be thought of as the variable part of a computer, while hardware is the invari able part.\n\nThere are several types of software: 1. System Software: This includes operating systems like Windows, macOS, or Linux, which manage the computer's basic functions. 2. Application Software : These are programs that help users perform specific tasks, such as word processors, web browsers, or video games .\n\n3. Programming Software: Tools used by developers to write code and develop software, including compilers, debuggers, and integrated development environments ( IDEs).\n\n4 . Middleware: Software that acts as a bridge between an operating system or database and applications, especially on a network.\n\n5. Driver Software: Programs that control particular devices attached to a computer. In the context of your React application, you're working with web application software. React is a JavaScript library for building user interfaces, which falls under the category of application software and development tools.\n\nIs there anything specific about software or your React application that you' d like to know more about?"
+  },
+  {
+    "role": "user",
+    "content": "make a simple hello world"
   }
 ]
