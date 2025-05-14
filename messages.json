@@ -22,5 +22,9 @@
   {
     "role": "ai_message",
     "content": "As an AI assistant create d by HS T, I'm here to help you with your React application development . I'm designe d to assist you with various tasks relate d to your project, such as: 1. Answ ering questions about React, web development, or any other related topics\n2. Providing explanations on coding concepts or best practices 3. Helping you modify or ad d new features to your React application\n4. Offering guidance on how to structure your project or implement specific functionalities I have access to your current project structure and can make code changes when you request them. I 'm here to make your development process smoother and more efficient. Is there anything specific about your React project that you'd like to know or work on? I 'm happy to help with any questions or tasks you have in mind!"
+  },
+  {
+    "role": "user",
+    "content": "what is software?"
   }
 ]
