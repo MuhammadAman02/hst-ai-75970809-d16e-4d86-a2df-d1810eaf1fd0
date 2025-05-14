@@ -14,5 +14,9 @@
   {
     "role": "ai_message",
     "content": "I'm doing well, thank you for asking! As an AI assistant, I 'm always ready to help you with your project . Is there anything specific you' d like to work on or discuss regarding your React application? I 'm here to assist with any questions, explanations, or code modifications you might need."
+  },
+  {
+    "role": "user",
+    "content": "who are u?"
   }
 ]
